@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Titpe21\Sneakfsd'\Sneakfsd'\obj\Debug\netcoreapp3.1\Sneakfsd'.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\Sneakfsd'\Sneakfsd'\obj\Debug\netcoreapp3.1\Sneakfsd'.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\Sneakfsd'\Sneakfsd'\obj\Debug\netcoreapp3.1\Sneakfsd'.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\Sneakfsd'\Sneakfsd'\bin\Debug\netcoreapp3.1\Sneakfsd'.exe
+C:\Users\opilane\source\repos\Titpe21\Sneakfsd'\Sneakfsd'\bin\Debug\netcoreapp3.1\Sneakfsd'.deps.json
+C:\Users\opilane\source\repos\Titpe21\Sneakfsd'\Sneakfsd'\bin\Debug\netcoreapp3.1\Sneakfsd'.runtimeconfig.json
+C:\Users\opilane\source\repos\Titpe21\Sneakfsd'\Sneakfsd'\bin\Debug\netcoreapp3.1\Sneakfsd'.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Titpe21\Sneakfsd'\Sneakfsd'\bin\Debug\netcoreapp3.1\Sneakfsd'.dll
+C:\Users\opilane\source\repos\Titpe21\Sneakfsd'\Sneakfsd'\bin\Debug\netcoreapp3.1\Sneakfsd'.pdb
+C:\Users\opilane\source\repos\Titpe21\Sneakfsd'\Sneakfsd'\obj\Debug\netcoreapp3.1\Sneakfsd'.dll
+C:\Users\opilane\source\repos\Titpe21\Sneakfsd'\Sneakfsd'\obj\Debug\netcoreapp3.1\Sneakfsd'.pdb
+C:\Users\opilane\source\repos\Titpe21\Sneakfsd'\Sneakfsd'\obj\Debug\netcoreapp3.1\Sneakfsd'.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Titpe21\Sneakfsd'\Sneakfsd'\obj\Debug\netcoreapp3.1\Sneakfsd'.csprojAssemblyReference.cache
